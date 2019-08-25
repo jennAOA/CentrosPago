@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SucursalesCercanasMVC", "SucursalesCercanasMVC\SucursalesCercanasMVC.csproj", "{63DEE156-2F13-499E-9968-B4FE53710E5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SucursalesCercanasMVC.Tests", "SucursalesCercanasMVC.Tests\SucursalesCercanasMVC.Tests.csproj", "{CE01F1AC-F5FA-4D0D-B451-176E12A16A7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63DEE156-2F13-499E-9968-B4FE53710E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DEE156-2F13-499E-9968-B4FE53710E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DEE156-2F13-499E-9968-B4FE53710E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DEE156-2F13-499E-9968-B4FE53710E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE01F1AC-F5FA-4D0D-B451-176E12A16A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE01F1AC-F5FA-4D0D-B451-176E12A16A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE01F1AC-F5FA-4D0D-B451-176E12A16A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE01F1AC-F5FA-4D0D-B451-176E12A16A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
