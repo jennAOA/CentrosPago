@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{63DEE156-2F13-499E-9968-B4FE53710E5C}|">
+  <MonoDevelop.Ide.ItemProperties.SucursalesCercanasMVC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SucursalesCercanasMVC/Scripts/gmaps.js">
+    <Files>
+      <File FileName="SucursalesCercanasMVC/Default.aspx" Line="154" Column="11" />
+      <File FileName="SucursalesCercanasMVC/Default.aspx.cs" />
+      <File FileName="SucursalesCercanasMVC/Default.aspx.designer.cs" Line="17" Column="1" />
+      <File FileName="SucursalesCercanasMVC/Css/bootstrap.css" Line="10039" Column="4" />
+      <File FileName="SucursalesCercanasMVC/Css/bootstrap-grid.css" Line="23" Column="21" />
+      <File FileName="SucursalesCercanasMVC/Css/sb-admin-2.css" Line="10798" Column="2" />
+      <File FileName="SucursalesCercanasMVC/Scripts/gmaps.js" Line="18" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="SucursalesCercanasMVC" expanded="True">
+            <Node name="SucursalesCercanasMVC" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Css" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="gmaps.js" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SucursalesCercanasMVC" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
